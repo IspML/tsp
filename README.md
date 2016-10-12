@@ -1,2 +1,2 @@
-# tsp
-A C program to solve the Travelling Salesman Problem (Won the contest of fastest project for Data structures &amp; algorithms 3)
+# Travelling Salesman Problem in C (2013)
+A C program to solve the Travelling Salesman Problem with multiple threads (and communication via MPI). This was a project for Data structures &amp; algorithms 3 and won the contest for the fastest implementation of the year 2013. This was achieved by implementing a complex algorithm to calculate the Held-Karp lower bound and optimizing the whole program as much as possible, sometimes at the cost of code readability.

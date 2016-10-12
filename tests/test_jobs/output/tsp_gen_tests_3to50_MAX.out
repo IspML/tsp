@@ -1,0 +1,336 @@
+TEST WITH 8 PROCESSES ON 2 NODES - RANDOM DISTANCES BETWEEN 1 AND INT_MAX/amount_of_cities
+3 CITIES
+Before 2-opt & 3-opt: 1543941508
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 1543941508 | 
+771970754
+0 1 2 0
+4 CITIES
+Before 2-opt & 3-opt: 1395830360
+After 2-opt & 3-opt: 1040913180
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 946483526 | 
+520456590
+0 2 1 3 0
+5 CITIES
+Before 2-opt & 3-opt: 2493552864
+After 2-opt & 3-opt: 1781011834
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 1234601722 | 
+890505917
+0 3 4 1 2 0
+6 CITIES
+Before 2-opt & 3-opt: 1732550436
+After 2-opt & 3-opt: 1238476988
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 800257834 | 
+619238494
+0 4 5 3 2 1 0
+7 CITIES
+Before 2-opt & 3-opt: 2366785726
+After 2-opt & 3-opt: 1712037216
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 826279604 | 
+856018608
+0 6 5 3 1 4 2 0
+8 CITIES
+Before 2-opt & 3-opt: 2568857764
+After 2-opt & 3-opt: 1270267238
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 1169348104 | 
+635133619
+0 5 1 2 3 7 4 6 0
+9 CITIES
+Before 2-opt & 3-opt: 1720204532
+After 2-opt & 3-opt: 674465482
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 511770992 | 
+337232741
+0 6 8 2 7 1 4 5 3 0
+10 CITIES
+Before 2-opt & 3-opt: 1899990498
+After 2-opt & 3-opt: 654082868
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 483059682 | 
+327041434
+0 3 4 8 5 2 7 6 1 9 0
+11 CITIES
+Before 2-opt & 3-opt: 2218392356
+After 2-opt & 3-opt: 607481340
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 443340132 | 
+303740670
+0 6 1 10 2 7 3 9 5 4 8 0
+12 CITIES
+Before 2-opt & 3-opt: 1934852710
+After 2-opt & 3-opt: 769987296
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 446870284 | 
+384993648
+0 4 3 8 11 2 9 1 7 10 6 5 0
+13 CITIES
+Before 2-opt & 3-opt: 2483093256
+After 2-opt & 3-opt: 368405162
+Process number: 0 | Time: 0
+Main Held-Karp lower bound: 241296824 | 
+184202581
+0 5 12 9 1 7 11 4 8 6 3 10 2 0
+14 CITIES
+Before 2-opt & 3-opt: 3125710708
+After 2-opt & 3-opt: 777147502
+Process number: 14 | Time: 20
+Main Held-Karp lower bound: 603293330 | 
+388101759
+0 9 4 7 3 13 1 6 11 8 12 2 5 10 0
+15 CITIES
+Before 2-opt & 3-opt: 2135098908
+After 2-opt & 3-opt: 685254128
+Process number: 7 | Time: 10
+Main Held-Karp lower bound: 512457922 | 
+338608793
+0 11 12 6 9 1 5 7 13 2 14 10 4 3 8 0
+16 CITIES
+Before 2-opt & 3-opt: 2349554882
+After 2-opt & 3-opt: 493771752
+Process number: 15 | Time: 20
+Main Held-Karp lower bound: 350018814 | 
+241459669
+0 7 8 1 15 4 9 5 3 13 2 12 11 6 14 10 0
+17 CITIES
+Before 2-opt & 3-opt: 2319128482
+After 2-opt & 3-opt: 670879186
+Process number: 13 | Time: 40
+Main Held-Karp lower bound: 296470078 | 
+325848016
+0 13 1 14 2 11 16 9 7 4 10 8 5 3 6 15 12 0
+18 CITIES
+Before 2-opt & 3-opt: 1875942776
+After 2-opt & 3-opt: 432677682
+Process number: 0 | Time: 30
+Main Held-Karp lower bound: 232502528 | 
+216338841
+0 8 3 2 4 17 7 6 13 9 12 15 5 1 14 10 16 11 0
+19 CITIES
+Before 2-opt & 3-opt: 2211433452
+After 2-opt & 3-opt: 366302274
+Process number: 14 | Time: 60
+Main Held-Karp lower bound: 186165454 | 
+164319000
+0 8 4 7 18 14 10 12 1 16 15 11 17 2 9 5 3 6 13 0
+20 CITIES
+Before 2-opt & 3-opt: 2082128114
+After 2-opt & 3-opt: 493261428
+Process number: 7 | Time: 70
+Main Held-Karp lower bound: 335257034 | 
+236185108
+0 1 16 19 9 5 13 18 7 3 6 15 14 2 8 17 11 12 4 10 0
+21 CITIES
+Before 2-opt & 3-opt: 2055206470
+After 2-opt & 3-opt: 379314214
+Process number: 3 | Time: 120
+Main Held-Karp lower bound: 243774540 | 
+187031556
+0 1 5 16 15 8 13 17 10 3 4 18 7 12 11 20 2 14 9 19 6 0
+22 CITIES
+Before 2-opt & 3-opt: 1540420744
+After 2-opt & 3-opt: 321515046
+Process number: 1 | Time: 80
+Main Held-Karp lower bound: 197651236 | 
+155928965
+0 4 1 21 13 14 12 18 16 17 8 10 20 2 3 11 7 9 15 5 6 19 0
+23 CITIES
+Before 2-opt & 3-opt: 2219959680
+After 2-opt & 3-opt: 334600412
+Process number: 5 | Time: 100
+Main Held-Karp lower bound: 223054810 | 
+163312121
+0 5 22 17 18 8 7 2 10 21 14 12 9 19 3 16 6 20 15 1 4 11 13 0
+24 CITIES
+Before 2-opt & 3-opt: 1946587008
+After 2-opt & 3-opt: 278899800
+Process number: 10 | Time: 250
+Main Held-Karp lower bound: 188707846 | 
+127696654
+0 23 1 8 3 18 9 5 11 20 12 13 17 7 10 19 16 22 14 15 21 2 6 4 0
+25 CITIES
+Before 2-opt & 3-opt: 2134384132
+After 2-opt & 3-opt: 326101228
+Process number: 0 | Time: 170
+Main Held-Karp lower bound: 276178098 | 
+163050614
+0 11 21 7 14 4 20 10 22 8 23 9 13 16 1 6 3 12 5 2 19 17 24 15 18 0
+26 CITIES
+Before 2-opt & 3-opt: 2179446192
+After 2-opt & 3-opt: 404900514
+Process number: 6 | Time: 240
+Main Held-Karp lower bound: 246831980 | 
+197063138
+0 2 3 24 15 22 11 25 14 4 12 10 21 19 23 5 17 8 18 6 20 9 16 1 7 13 0
+27 CITIES
+Before 2-opt & 3-opt: 2648785776
+After 2-opt & 3-opt: 360472638
+Process number: 0 | Time: 140
+Main Held-Karp lower bound: 199086244 | 
+180236319
+0 25 11 18 2 9 7 5 8 22 14 19 17 23 15 24 4 16 12 3 1 13 10 21 6 26 20 0
+28 CITIES
+Before 2-opt & 3-opt: 2204442938
+After 2-opt & 3-opt: 332545352
+Process number: 4 | Time: 260
+Main Held-Karp lower bound: 238827300 | 
+165096767
+0 20 11 25 8 14 4 9 2 5 1 18 7 10 16 27 19 13 3 15 26 21 6 23 22 12 24 17 0
+29 CITIES
+Before 2-opt & 3-opt: 1895302850
+After 2-opt & 3-opt: 296872464
+Process number: 8 | Time: 370
+Main Held-Karp lower bound: 184299590 | 
+139825727
+0 20 28 17 26 1 23 18 5 19 6 9 22 8 3 14 2 27 7 4 13 11 12 10 21 16 25 24 15 0
+30 CITIES
+Before 2-opt & 3-opt: 1801920444
+After 2-opt & 3-opt: 352115502
+Process number: 6 | Time: 380
+Main Held-Karp lower bound: 215469710 | 
+162678253
+0 20 3 8 15 13 4 7 9 21 28 16 22 24 11 26 19 23 29 17 27 10 25 1 5 12 6 2 18 14 0
+31 CITIES
+Before 2-opt & 3-opt: 2111894530
+After 2-opt & 3-opt: 282566074
+Process number: 0 | Time: 210
+Main Held-Karp lower bound: 184898016 | 
+141283037
+0 11 3 5 15 25 14 20 4 21 1 13 2 26 12 10 23 18 19 7 17 29 8 9 6 28 30 22 16 24 27 0
+32 CITIES
+Before 2-opt & 3-opt: 2396484970
+After 2-opt & 3-opt: 328498720
+Process number: 9 | Time: 870
+Main Held-Karp lower bound: 195167024 | 
+156770808
+0 21 7 19 17 22 24 6 18 12 2 14 25 8 5 31 11 9 27 29 3 10 16 15 20 28 26 13 30 23 4 1 0
+33 CITIES
+Before 2-opt & 3-opt: 2525157978
+After 2-opt & 3-opt: 424031262
+Process number: 14 | Time: 1910
+Main Held-Karp lower bound: 231742736 | 
+196400310
+0 1 18 5 3 25 7 24 28 16 4 15 12 19 22 10 9 11 8 20 27 30 29 21 23 14 26 17 6 32 31 13 2 0
+34 CITIES
+Before 2-opt & 3-opt: 1888526418
+After 2-opt & 3-opt: 257271600
+Process number: 11 | Time: 720
+Main Held-Karp lower bound: 133083000 | 
+109103892
+0 19 17 26 28 7 1 32 9 5 23 8 18 6 29 12 27 11 3 33 25 24 16 2 22 10 14 13 30 31 4 15 20 21 0
+35 CITIES
+Before 2-opt & 3-opt: 2103493332
+After 2-opt & 3-opt: 221274742
+Process number: 3 | Time: 1030
+Main Held-Karp lower bound: 120397328 | 
+105704757
+0 14 32 1 28 4 18 7 22 13 25 31 11 30 2 5 3 26 27 9 8 12 20 29 23 21 17 19 10 33 15 34 16 24 6 0
+36 CITIES
+Before 2-opt & 3-opt: 1984206366
+After 2-opt & 3-opt: 211998440
+Process number: 14 | Time: 900
+Main Held-Karp lower bound: 113400450 | 
+89762731
+0 2 27 1 29 17 16 10 35 31 21 18 34 3 33 23 9 13 14 4 11 6 30 5 20 8 25 28 15 22 19 24 12 26 32 7 0
+37 CITIES
+Before 2-opt & 3-opt: 2314211424
+After 2-opt & 3-opt: 238783422
+Process number: 7 | Time: 1840
+Main Held-Karp lower bound: 148748456 | 
+107736352
+0 32 10 36 1 7 8 2 9 25 13 18 15 22 11 31 3 29 33 26 19 17 12 28 5 35 34 14 24 21 16 6 4 20 30 23 27 0
+38 CITIES
+Before 2-opt & 3-opt: 2022218292
+After 2-opt & 3-opt: 304760144
+Process number: 11 | Time: 2090
+Main Held-Karp lower bound: 208034234 | 
+146841131
+0 16 15 14 7 34 13 27 35 18 23 3 6 37 24 25 10 11 33 36 9 12 4 17 19 31 22 21 1 32 26 28 8 5 2 20 29 30 0
+39 CITIES
+Before 2-opt & 3-opt: 1863828038
+After 2-opt & 3-opt: 216010292
+Process number: 0 | Time: 1810
+Main Held-Karp lower bound: 131604116 | 
+97838180
+0 22 25 2 18 26 29 13 1 34 8 36 6 12 11 28 23 5 37 21 33 35 7 15 14 17 16 3 4 10 38 27 30 19 9 24 20 32 31 0
+40 CITIES
+Before 2-opt & 3-opt: 2138634848
+After 2-opt & 3-opt: 154108810
+Process number: 12 | Time: 1090
+Main Held-Karp lower bound: 84281866 | 
+76644317
+0 32 33 17 16 36 20 30 6 5 8 15 21 10 22 12 14 38 19 23 18 11 24 37 25 26 34 9 2 35 31 7 4 27 28 3 1 39 13 29 0
+41 CITIES
+Before 2-opt & 3-opt: 2133801892
+After 2-opt & 3-opt: 308006096
+Process number: 8 | Time: 6200
+Main Held-Karp lower bound: 170284834 | 
+141250240
+0 40 29 27 24 7 1 8 20 3 16 33 21 37 35 39 23 2 30 15 25 4 31 28 5 22 13 34 17 36 10 9 38 18 11 6 14 26 32 19 12 0
+42 CITIES
+Before 2-opt & 3-opt: 2320043046
+After 2-opt & 3-opt: 222969116
+Process number: 0 | Time: 2080
+Main Held-Karp lower bound: 142839606 | 
+104621266
+0 37 5 34 9 32 30 31 19 17 26 12 18 7 15 29 3 20 4 1 23 8 6 25 40 16 27 14 24 33 41 22 21 13 11 38 36 39 35 10 2 28 0
+43 CITIES
+Before 2-opt & 3-opt: 2296204628
+After 2-opt & 3-opt: 180326284
+Process number: 6 | Time: 2640
+Main Held-Karp lower bound: 103814522 | 
+88820842
+0 5 35 6 31 32 38 24 29 25 39 16 17 19 37 9 1 4 21 40 8 34 36 12 27 28 15 11 26 14 13 2 42 10 22 20 23 3 41 33 7 18 30 0
+44 CITIES
+Before 2-opt & 3-opt: 2021438378
+After 2-opt & 3-opt: 201271058
+Process number: 6 | Time: 3040
+Main Held-Karp lower bound: 124673430 | 
+89157046
+0 25 11 10 21 34 32 30 19 8 4 20 14 26 1 31 33 27 23 24 9 18 29 12 22 41 42 35 6 39 38 3 16 5 13 43 40 28 37 7 36 2 15 17 0
+45 CITIES
+Before 2-opt & 3-opt: 2177395842
+After 2-opt & 3-opt: 183092020
+Process number: 7 | Time: 5560
+Main Held-Karp lower bound: 106705978 | 
+87468356
+0 39 11 27 6 38 5 20 30 26 21 23 41 36 28 2 42 33 35 34 43 14 4 17 7 24 3 10 19 22 25 8 29 37 31 44 13 12 15 40 18 9 32 1 16 0
+46 CITIES
+Before 2-opt & 3-opt: 2186198240
+After 2-opt & 3-opt: 201802408
+Process number: 11 | Time: 7720
+Main Held-Karp lower bound: 95133242 | 
+97630222
+0 12 31 22 9 16 6 45 1 40 5 39 42 35 21 32 28 44 33 41 4 14 13 38 17 29 19 20 30 25 23 8 37 2 36 24 43 15 7 10 27 3 11 18 34 26 0
+47 CITIES
+Before 2-opt & 3-opt: 2442626768
+After 2-opt & 3-opt: 185283108
+Process number: 5 | Time: 8790
+Main Held-Karp lower bound: 99033020 | 
+81283303
+0 21 38 46 26 32 9 4 10 22 40 44 17 13 12 11 28 18 36 43 2 39 23 37 41 8 33 7 20 5 29 25 27 1 24 45 31 35 3 19 6 34 14 30 15 16 42 0
+48 CITIES
+Before 2-opt & 3-opt: 1861250778
+After 2-opt & 3-opt: 183655280
+Process number: 11 | Time: 8580
+Main Held-Karp lower bound: 103750366 | 
+86449706
+0 1 20 44 23 34 28 17 19 37 33 14 3 47 11 31 46 45 2 39 10 25 12 40 43 26 29 9 32 5 24 15 30 42 18 38 41 4 6 27 13 21 8 35 22 16 36 7 0
+49 CITIES
+Before 2-opt & 3-opt: 1916700182
+After 2-opt & 3-opt: 163634832
+Process number: 0 | Time: 7230
+Main Held-Karp lower bound: 92657136 | 
+76877335
+0 33 4 47 44 9 48 35 36 14 40 8 18 2 32 24 45 15 19 43 5 22 38 1 7 13 17 42 10 25 3 23 11 28 16 29 46 34 37 27 12 26 39 6 20 41 21 30 31 0
+50 CITIES
+Before 2-opt & 3-opt: 2385858576
+After 2-opt & 3-opt: 210039052
+Process number: 14 | Time: 11440
+Main Held-Karp lower bound: 104611930 | 
+87662201
+0 42 13 25 33 28 22 31 46 20 41 40 36 1 38 19 14 45 32 18 44 2 7 23 15 26 3 29 49 35 37 5 6 48 10 16 43 12 4 47 34 21 39 27 8 24 9 30 11 17 0
